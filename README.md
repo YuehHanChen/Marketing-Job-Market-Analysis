@@ -15,7 +15,7 @@ This dataset is from h1bdata.info, where has the h1b disclosure data from the Un
 7. Which states offer the highest salaries?
 
 ## Insights:
-###Limitation: All these data are disclosure date from h1bdata.info, so we don't know how many unpublished data out there. Therefore, we should have some degree doubt the numbers presented above.
+#### Limitation: All these data are disclosure date from h1bdata.info, so we don't know how many unpublished data out there. Therefore, we should have some degree doubt the numbers presented above.
 #### 1. Two most popular marketing jobs: Marketing Specialist(60%) & Marketing Analyst(35%)
 #### 2. Salary Rank by job title: SEO Strategist > Marketing Analyst > Marketing Specialist
 #### 3. The demand for Marketing Analysts is predicted to increase with the trend of data science.
