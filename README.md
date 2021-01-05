@@ -16,10 +16,12 @@ This dataset is from h1bdata.info, where has the h1b disclosure data from the Un
 
 ## Insights:
 #### Limitation: All these data are disclosure date from h1bdata.info, so we don't know how many unpublished data out there. Therefore, we should have some degree doubt the numbers presented above.
-#### 1. Two most popular marketing jobs: Marketing Specialist(60%) & Marketing Analyst(35%)
-#### 2. Salary Rank by job title: SEO Strategist > Marketing Analyst > Marketing Specialist
-#### 3. The demand for Marketing Analysts is predicted to increase with the trend of data science.
-#### 4. Marketing H1B Average Waiting Days is 147 days, so don’t panic.
-#### 5. In-demand skills: Google Analytics > Excel > SQL > Python > Machine Learning 
-#### 6. Marketing Salary Rank by location: San Francisco > San Jose > Boston
-#### 7. Marketing H1B Issue Amount Rank by location: New York > San Francisco > Los Angeles 
+
+- Two most popular marketing jobs: Marketing Specialist(60%) & Marketing Analyst(35%)
+- The demand for Marketing Analysts is predicted to increase 20% by 2028.
+- Salary Rank by job title: SEO Strategist > Marketing Analyst > Marketing Specialist
+- Marketing H1B Average Waiting Days is 147 days. Don’t panic. It’s 30 days fewer than the average.
+- In-demand skills: Google Analytics > Excel > A/B Testing knowledge
+- New Trends: Data Science in Marketing ( Python >  SQL > Machine Learning Knowledge )
+- Marketing Salary Rank by location: San Francisco > San Jose > Boston
+- Marketing H1B Issue Amount Rank by location: New York > San Francisco > Los Angeles 
